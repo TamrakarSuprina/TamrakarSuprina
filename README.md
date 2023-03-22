@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TamrakarSuprina
 - 👀 I’m interested in learning everyday.
-- 🌱 I’m currently learning to code using micronaut framework in Java
+- 🌱 I’m currently working in Phil as a Full Stack Engineer
 
 <!---
 TamrakarSuprina/TamrakarSuprina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
